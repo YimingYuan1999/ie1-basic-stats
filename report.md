@@ -22,7 +22,7 @@ Using your notes and results, answer the following questions. Some questions hav
     git log -i --grep="ant" master -- README.md
     ```
 
-    4. The number of total commits is 98, where we get this number by this command `git rev-list --all --count`. 
+    4. The number of total commits is 82, where we get this number by this command `git rev-list --all --count`. 
 
 
     5. Using this command `git show --name-only 01da475`, we get the following files modified in the commit with the given hash: 
